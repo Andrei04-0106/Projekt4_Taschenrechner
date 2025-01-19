@@ -1,6 +1,6 @@
 # Taschenrechener
 
-Diese Repository enthält ein Tachenrechner. Das Projekt dient dazu, meine Grundlagen in HTML, CSS und JavaScript zu üben.
+Diese Repository enthält ein funktinonsfähigen Tachenrechner. Das Projekt dient dazu, meine Grundlagen in HTML, CSS und JavaScript zu üben.
 
 ## Ziel
 Das Ziel dieses Projekts ist es, Javascript Grundlagen zu üben und zu zeigen, dass ich bereit bin, meine Fähigkeiten weiterzuentwickeln.
